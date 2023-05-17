@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Neemias Vieira</h1>
 <h3 align="center">Um Desenvolvedor de Softwares Jr.</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=neemiasvieira&label=Profile%20views&color=0e75b6&style=flat" alt="neemiasvieira" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neemiasvieira" alt="neemiasvieira" /></a > </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neemiasvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="neemiasvieira" height="30" width="40" /></a>
