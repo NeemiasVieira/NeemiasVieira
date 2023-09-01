@@ -3,7 +3,7 @@
 
 <h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 anos, sou fascinado por tecnologias, desenvolvimento de software, inovação e desafios. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento está sendo aperfeiçoado a cada dia, desde pequeno sou envolvido com tecnologia, aos 14 anos de idade enquantos muitos se divertiam jogando eu já ganhava meu próprio dinheirinho com configurações de plugins em Java. Sou <b>Desenvolvedor Full-Stack</b> ❤️, meus conhecimentos e estudos hoje estão voltados a: <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>React</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, entre outros.
+Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 anos, sou fascinado por tecnologias, desenvolvimento de software, inovação e desafios. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento está sendo aperfeiçoado a cada dia, desde pequeno sou envolvido com tecnologia, aos 14 anos de idade enquantos muitos se divertiam jogando eu já ganhava meu próprio dinheirinho com configurações de plugins em Java. Sou <b>Desenvolvedor Full-Stack</b> ❤️, meus conhecimentos e estudos hoje estão voltados a: <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Express.JS</b>, <b>Nest.JS</b>, <b>React</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, entre outros.
 </p>
 
 
