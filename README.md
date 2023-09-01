@@ -32,7 +32,9 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 
 <h1 align="center"> Fale comigo 💬 <h1>
   
-[![Linkedin Badge](https://img.shields.io/badge/ericrodriguesferreira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ericrodriguesfer/)](https://www.linkedin.com/in/neemiasvieira/) [![Instagram Badge](https://img.shields.io/badge/@_ericrf_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ericrf_/)](https://www.instagram.com/neemiasvieira/)
+<a href="https://linkedin.com/in/neemiasvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="neemiasvieira" height="30" width="40" /></a>
+<a href="https://instagram.com/neemiasvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="neemiasvieira" height="30" width="40" /></a> </p>
+<h3 align="left">Idiomas e Ferramentas:</h3>
   
 <br>
 
