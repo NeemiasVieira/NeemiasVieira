@@ -14,8 +14,6 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neemiasvieira&" alt="neemiasvieira" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="neemiasvieira" /> </p>
-
 <h1 align="center"> Linguagens e ferramentas<h1>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
@@ -29,6 +27,7 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&labelColor=85EA2D" alt="Swagger Logo" title="Swagger" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
 <img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&labelColor=2D3748" alt="Prisma Logo" title="Prisma" height="25"/>
 <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
