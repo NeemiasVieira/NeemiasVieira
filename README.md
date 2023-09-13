@@ -14,6 +14,8 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neemiasvieira&" alt="neemiasvieira" /></p>
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="neemiasvieira" /> </p>
+
 <h1 align="center"> Linguagens e ferramentas<h1>
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
@@ -30,7 +32,6 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="diogoasenjo" /> </p>
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
