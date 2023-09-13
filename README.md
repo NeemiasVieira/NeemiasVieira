@@ -17,31 +17,30 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=diogoasenjo&show_icons=true&locale=en&layout=compact" alt="neemiasvieira" /> </p>
 
 <h1 align="center"> Linguagens e ferramentas<h1>
-<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
-<code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
-<code><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
-<code><img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></code>
-<code><img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
-<code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
-<code><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
-<code><img alt="PostreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
-<code><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></code>
-<code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
-<code><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></code>
-<code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
-<code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=282C34" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Express.js-61DAFB?logo=express&logoColor=404D59" alt="Express.js logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
+<img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=282C34" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white" alt="Azure DevOps logo" title="Azure DevOps" height="25" />
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS logo" title="AWS" height="25" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter logo" title="Flutter" height="25" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" height="25" />
 </p>
 
 <h1 align="center"> Fale comigo 💬 <h1>
