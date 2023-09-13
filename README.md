@@ -41,6 +41,8 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 
 <h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL Logo" title="GraphQL" height="25"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
 </p>
