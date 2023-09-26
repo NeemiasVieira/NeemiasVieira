@@ -39,15 +39,10 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL Logo" title="GraphQL" height="25"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=pt-BR&layout=compact" alt="neemiasvieira" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=pt-BR" alt="neemiasvieira" /> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=en&layout=compact" alt="neemiasvieira" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=en" alt="neemiasvieira" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neemiasvieira&" alt="neemiasvieira" /></p>
-
-<h1 align="center"> Fale comigo 💬 <h1>
+<strong align="center"> Fale comigo 💬 <strong/>
   
 <a href="https://linkedin.com/in/neemiasvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="neemiasvieira" height="30" width="40" /></a>
 <a href="https://instagram.com/neemiasvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="neemiasvieira" height="30" width="40" /></a> </p>
