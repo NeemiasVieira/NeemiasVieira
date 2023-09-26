@@ -44,9 +44,10 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=pt-BR" alt="neemiasvieira" /> </p>
 
 <strong align="center"> Fale comigo 💬 <strong/>
-  
-<a href="https://linkedin.com/in/neemiasvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="neemiasvieira" height="30" width="40" /></a>
-<a href="https://instagram.com/neemiasvieira" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="neemiasvieira" height="30" width="40" /></a> </p>
+
+  <a href="https://www.instagram.com/neemiasvieira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "neemias.vieira@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/neemiasvieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <br>
 
