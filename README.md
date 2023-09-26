@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A8B6&size=35&center=true&vCenter=true&width=1000&lines=Neemias+Vieira+/+Developer+at+ModalGR+:%29)](https://git.io/typing-svg)
 <h1 align="center">Olá 👋, eu sou Neemias Vieira</h1>
 <h3 align="center">Bem vindo ao meu perfil do GitHub!</h3>
 
