@@ -4,30 +4,33 @@
 
 <h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 anos, sou fascinado por tecnologias, desenvolvimento de software, inovação e desafios. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento está sendo aperfeiçoado a cada dia, desde pequeno sou envolvido com tecnologia, aos 14 anos de idade enquantos muitos se divertiam jogando eu já ganhava meu próprio dinheirinho com configurações de plugins em Java. Sou <b>Desenvolvedor Full-Stack</b> ❤️, meus conhecimentos e estudos hoje estão voltados a: <b>Java</b>, <b>Quarkus</b>, <b>Docker</b>, <b>MongoDB</b>, <b>React</b>, <b>TypeScript</b>, entre outros.
+Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 24 anos, sou fascinado por tecnologias, desenvolvimento de software, inovação e desafios. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento está sendo aperfeiçoado a cada dia, desde pequeno sou envolvido com tecnologia, aos 14 anos de idade enquantos muitos se divertiam jogando eu já ganhava meu próprio dinheiro com configurações de plugins em Java. Sou <b>Desenvolvedor Full-Stack</b> ❤️, trabalho atualmente com: <b>React-Native (Expo/Web) </b>, <b>NodeJs</b>, <b>TypeScript</b>, <b>PostgreSQL</b>, <b>GraphQL</b>, <b>ORMs como MikroORM, Sequelize, Nexus</b>, entre outros.
 </p>
 
-<h1 align="center"> Linguagens e ferramentas<h1>
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/Quarkus-2496ED?logo=quarkus&logoColor=white" alt="Quarkus logo" title="Quarkus" height="25" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=282C34" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/Express.js-61DAFB?logo=express&logoColor=404D59" alt="Express.js logo" title="Express.js" height="25" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
+<h1 align="center"> Principais Tecnologias<h1>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=282C34" alt="TypeScript logo" title="TypeScript" height="25" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=282C34" alt="JavaScript logo" title="JavaScript" height="25" />
+ <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=282C34" alt="React Native logo" title="React Native" height="25" />
+ <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=282C34" alt="React logo" title="React" height="25" />
+ <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />
+ <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL Logo" title="GraphQL" height="25"/>
+ <img src="https://img.shields.io/badge/Express.js-61DAFB?logo=express&logoColor=404D59" alt="Express.js logo" title="Express.js" height="25" />
+ <img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
+ <img src="https://img.shields.io/badge/MikroORM-0B5133?logo=mikroorm&logoColor=ffffff" alt="MikroORM logo" title="MikroORM" height="25" />
 
-<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&labelColor=E10098" alt="GraphQL Logo" title="GraphQL" height="25"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+ <img src="https://img.shields.io/badge/LaunchDarkly-222?logo=launchdarkly&logoColor=ffffff" alt="LaunchDarkly logo" title="LaunchDarkly" height="25" />
+
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=282C34" alt="HTML5 logo" title="HTML5" height="25" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=282C34" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular logo" title="Angular" height="25" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS logo" title="NestJS" height="25" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&labelColor=85EA2D" alt="Swagger Logo" title="Swagger" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />
+<img src="https://img.shields.io/badge/Quarkus-2496ED?logo=quarkus&logoColor=white" alt="Quarkus logo" title="Quarkus" height="25" />
 <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&labelColor=00758F" alt="MySQL Logo" title="MySQL" height="25"/>
-<img src="https://img.shields.io/badge/Sequelize-61DAFB?logo=sequelize&logoColor=404D59" alt="Sequelize logo" title="Sequelize" height="25" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&labelColor=2D3748" alt="Prisma Logo" title="Prisma" height="25"/>
 <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />
@@ -37,12 +40,16 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 23 an
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
 
-<h2 align="center"> Tecnologias e linguagens que gostaria de aprender:<h2>
+<h2 align="center"> Tecnologias que gostaria/estou aprendendo</h2>
+<p>
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/AWS_Services-FF9900?logo=amazon&logoColor=FFFFFF" alt="AWS Services logo" title="AWS Services" height="25" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft&logoColor=ffffff" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=pt-BR&layout=compact" alt="neemiasvieira" /> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=pt-BR" alt="neemiasvieira" /> </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=pt-BR&layout=compact" alt="neemiasvieira" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=neemiasvieira&show_icons=true&locale=pt-BR" alt="neemiasvieira" /> 
 
 <strong align="center"> Fale comigo 💬 <strong/>
 
