@@ -39,13 +39,12 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 25 an
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack logo" title="Slack" height="25" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux logo" title="Linux" height="25" />
 
-
 <h2 align="center"> Tecnologias que gostaria/estou aprendendo</h2>
-<p>
+<ul>
 <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/AWS_Services-FF9900?logo=amazon&logoColor=FFFFFF" alt="AWS Services logo" title="AWS Services" height="25" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft&logoColor=ffffff" alt="Microsoft Azure logo" title="Microsoft Azure" height="25" />
-</p>
+</ul>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neemiasvieira&show_icons=true&locale=pt-BR&layout=compact" alt="neemiasvieira" /> 
@@ -53,17 +52,22 @@ Sou Neemias Vieira Fernandes, nasci na grande capital de São Paulo, tenho 25 an
 
 <strong align="center"> Fale comigo 💬 <strong/>
 
- <a href="https://www.instagram.com/neemiasvieira">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
 <a href="https://www.linkedin.com/in/neemiasvieira">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:neemias.vieira@live.com">
+<a href="https://wa.me/5513996020483?text=Olá,%20tudo%20bem?%20Vim%20através%20do%20seu%github,%20podemos%20conversar?">
+  <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<a href="https://www.instagram.com/NeemiasVieira">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="mailto:neemias_vieira@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
 </a>
+
   
 <br>
 
